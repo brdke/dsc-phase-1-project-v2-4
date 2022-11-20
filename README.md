@@ -3,8 +3,11 @@
 
 
 ## INTRODUCTION
+![pexels-donald-tong-109669](https://user-images.githubusercontent.com/117269915/202928980-b50a9f75-2307-48e4-b693-8b599569b0bd.jpeg)
 
 With the opening of a new studio we need to look at the trends for movies that are doing well and learning on what they should do but also capitalising the situations where the movie industry is not doing so well. This will be done in helping the microsoft detrmine the types of movies to be produced.
+
+
 ## Business understanding
 
 ### Business Problem
@@ -23,7 +26,7 @@ the dataset used for this analysis was downloaded from:
 * [Rotten Tomatoes](https://www.rottentomatoes.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
-![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
+
 
 and was stored  In the folder `zippedData`  
 This data contains the different forms/ types of movies and their genres with corrresponding data on their ratings and also how they performed finnacially with correspomding budgets. 
@@ -35,7 +38,7 @@ The data was checked for missing values and based on their significance in the d
 
 ## Data visualisation
 Above is the list of the movies with the best gross earnings world wide
-![image]https://github.com/brdke/dsc-phase-1-project-v2-4/blob/master/top%2020%20gross%20earning.png
+![top 20 gross earning1](https://user-images.githubusercontent.com/117269915/202928624-34467662-bab5-4637-9c4c-f10a55fdd1e9.png)
 
 As you can see there seems to be a great number of movies that are superhero or comics related and some seem to appear many times as a movie series  or a sequel.
 ### CONCLUSION
